@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+myenv/
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+
+# pyenv (don’t commit local env name)
+.python-version
