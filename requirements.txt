@@ -1,10 +1,21 @@
-streamlit==1.0.0
+# core app
+streamlit
 pandas
 numpy
-plotly
 openpyxl
-scikit-learn
+pillow
+
+# plotting
+plotly
 matplotlib
+seaborn
+altair
+
+# ML / stats
+scikit-learn
+imbalanced-learn
+lightgbm
 scipy
 statsmodels
-altair
+ipython
+
