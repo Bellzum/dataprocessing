@@ -98,7 +98,8 @@ def run(key):
             color_palette = {
                 'N2': ["#d9d9d9", "#bdbdbd", "#969696","#636363","#252525","#000000"],  # Grayscale
                 'CR-12': ["#deebf7", "#9ecae1", "#6baed6", "#497aab","#08519c","#031066"],  # Blue shades
-                'CR-17': ["#ffe5b4", "#ffd1a4", "#ffbb88", "#ffa366", "#ff8c42", "#e67700"],  # Orange pastel shades
+                'CR-14': ["#fff7ec", "#fee8c8", "#fdd49e", "#fdc086", "#fdae6b", "#f16913"],  # Orange shades
+                'CR-17': ["#fde0dd", "#fccde5", "#fa9fb5", "#f768a1", "#dd3497", "#ae017e"],  # Pink pastel shades
                 'CR-3':  ["#e0f3ff", "#c2e0f7", "#a3ceef", "#85bbdf", "#68a8d0", "#4b96c0"],  # pastel Blue shade
                 'CR-19': ["#f3e5d0", "#e8cdb5", "#ddba99", "#d2a67e", "#c79463", "#bc8249"],  # Pastel brown
                 'CR-20': ["#e0f2e9", "#c2e4d3", "#a3d6bd", "#85c9a7", "#66bb91", "#48ad7b"]   # Pastel green
