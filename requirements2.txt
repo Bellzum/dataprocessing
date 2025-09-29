@@ -1,0 +1,20 @@
+# --- Core app ---
+streamlit
+pandas
+numpy
+openpyxl
+pillow
+
+# --- Plotting ---
+plotly
+matplotlib
+seaborn
+altair
+
+# --- ML / stats ---
+scikit-learn
+imbalanced-learn
+lightgbm
+scipy
+statsmodels
+ipython
